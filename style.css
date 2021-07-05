@@ -1,0 +1,58 @@
+#text {
+  font-size: 30px ;
+}
+#finalJoc {
+  font-family: cursive;
+  font-size: 60px ;
+  color: #D2386C;
+}
+.titlu {
+  font-size: 80px;
+  font-family: cursive;
+  padding: 30px ;
+  text-align: center;
+  color : rgb(10, 34, 74)
+}
+#joc {
+ text-align: center;
+ font-size: 25px ;
+ color: rgba(255, 0, 0, 0.6);
+ background-color: #008CBA; ;
+ font-family: cursive;
+}
+#litere {
+  font-size: 25px ;
+}
+#categorieAleasa {
+  font-size: 50px ;
+  font-family: cursive;
+  text-align: center;
+}
+#categorie {
+  font-size: 35px ;
+  font-style: oblique;
+  text-align: center;
+}
+#cuvantAles {
+  font-size: 35px ;
+}
+#titlu {
+  font-size: 75px ;
+}
+#Vieti {
+  color: red ;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  font-size: 30px ;
+}
+#Vieti > div {
+    display: inline-block;
+}
+#nrVieti {
+  font-size: 30px;
+}
+button {
+border-radius: 12px ;
+background-color: rgb(143, 161, 191) ;
+}
