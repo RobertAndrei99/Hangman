@@ -1,4 +1,3 @@
-document.body.style.background = "url('background.jpg') " ;
 const animals = ["HIPPOPOTAMUS" , "DOG" , "BUFFALO" , "CROCODILE"] ;
 const food = ["SPAGHETTI" , "PIZZA" , "HAMBURGER" , "JALAPENO" ] ;
 const categories = ["Animals" , "Food"] ;
