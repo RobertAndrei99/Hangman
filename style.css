@@ -1,55 +1,56 @@
 #text {
   font-size: 30px ;
 }
-#finalJoc {
+#finalGame {
   font-family: cursive;
   font-size: 60px ;
   color: #D2386C;
 }
-.titlu {
+.title {
   font-size: 80px;
   font-family: cursive;
   padding: 30px ;
   text-align: center;
   color : rgb(10, 34, 74)
 }
-#joc {
+#game {
+ margin-left: 42%;
  text-align: center;
  font-size: 25px ;
  color: rgba(255, 0, 0, 0.6);
  background-color: #008CBA; ;
  font-family: cursive;
 }
-#litere {
+#letters {
   font-size: 25px ;
 }
-#categorieAleasa {
+#categoryChosen {
   font-size: 50px ;
   font-family: cursive;
   text-align: center;
 }
-#categorie {
+#category {
   font-size: 35px ;
   font-style: oblique;
   text-align: center;
 }
-#cuvantAles {
+#wordChosen {
   font-size: 35px ;
 }
-#titlu {
+#title {
   font-size: 75px ;
 }
-#Vieti {
+#lifes {
   color: red ;
   white-space: nowrap;
   overflow-x: auto;
   overflow-y: hidden;
   font-size: 30px ;
 }
-#Vieti > div {
+#lifes > div {
     display: inline-block;
 }
-#nrVieti {
+#numberLifes {
   font-size: 30px;
 }
 button {
